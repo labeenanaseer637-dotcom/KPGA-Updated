@@ -1,0 +1,14 @@
+# Local reference material and scratch work
+/work/
+
+# Local editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+node_modules/
